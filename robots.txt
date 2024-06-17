@@ -2,3 +2,14 @@ User-agent: *
 Disallow: /cache/
 
 Probando Git
+
+
+Block para llevar control
+
+Revisar la base de datos
+Verificar el diseño de la pagina inicial con al menos un numero publicado en la revista o dos (Inicio)
+Verificar el diseño de los archivos seleccionando una sola revista con su respectiva informacion
+Modificar los botones y logos actuales del ojs
+Modificar las modificacioen de los volumenes y revistas
+Verificar la creacion de la pagina de informacion y de contacto 
+
